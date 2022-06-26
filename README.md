@@ -2,7 +2,7 @@
 
 
 
-The origina code is from 
+The original code is from 
 
 [GitHub - openscenegraph/osgQt](https://github.com/openscenegraph/osgQt)
 

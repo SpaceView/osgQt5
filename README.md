@@ -16,6 +16,10 @@ GraphicsWindowEx
 
 GraphicsWindowEx.cpp
 
+CullVisitorEx
+
+CullVisitorEx.cpp
+
 You can directly find these files in the source location.
 
 
